@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2014)
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: paper.aux
 The style file: IEEEtranS.bst
@@ -8,65 +8,77 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: references.bib
-Warning--I didn't find a database entry for "1"
-Warning--I didn't find a database entry for "2"
-Warning--I didn't find a database entry for "3"
-Warning--I didn't find a database entry for "laskey"
-Warning--I didn't find a database entry for "sanger1994neural"
-Warning--I didn't find a database entry for "opencv_library"
-Warning--I didn't find a database entry for "chung2014accelerating"
 -- IEEEtranS.bst version 1.13 (2008/09/30) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 ** Sorting version - not for normal IEEE work.
-Warning--empty year in abbeel2008apprenticeship
-Warning--empty booktitle in bicchi2000robotic
-Warning--empty year in bicchi2000robotic
-Warning--empty year in grollman2007dogged
-Warning--empty year in kingnonprehensile
-Warning--empty journal in kitaevphysics
+Name 1 in "Michael Laskey, Jonathan Lee, Caleb Chuck, David Gealy, Wesley Hsieh, Florian T. Pokorny, Anca D. Dragan, and Ken Goldberg" has a comma at the end for entry hierarchical_supervisors
+while executing---line 2597 of file IEEEtranS.bst
+Too many commas in name 1 of "Michael Laskey, Jonathan Lee, Caleb Chuck, David Gealy, Wesley Hsieh, Florian T. Pokorny, Anca D. Dragan, and Ken Goldberg" for entry hierarchical_supervisors
+while executing---line 2597 of file IEEEtranS.bst
+Too many commas in name 1 of "Michael Laskey, Jonathan Lee, Caleb Chuck, David Gealy, Wesley Hsieh, Florian T. Pokorny, Anca D. Dragan, and Ken Goldberg" for entry hierarchical_supervisors
+while executing---line 2597 of file IEEEtranS.bst
+Too many commas in name 1 of "Michael Laskey, Jonathan Lee, Caleb Chuck, David Gealy, Wesley Hsieh, Florian T. Pokorny, Anca D. Dragan, and Ken Goldberg" for entry hierarchical_supervisors
+while executing---line 2597 of file IEEEtranS.bst
+Too many commas in name 1 of "Michael Laskey, Jonathan Lee, Caleb Chuck, David Gealy, Wesley Hsieh, Florian T. Pokorny, Anca D. Dragan, and Ken Goldberg" for entry hierarchical_supervisors
+while executing---line 2597 of file IEEEtranS.bst
+Name 1 in "A. Krizhevsky, I. Sutskever, and G. E. Hinton" has a comma at the end for entry imagenet
+while executing---line 2597 of file IEEEtranS.bst
+Name 1 in "A. Krizhevsky, I. Sutskever, and G. E. Hinton" has a comma at the end for entry imagenet
+while executing---line 2609 of file IEEEtranS.bst
+Warning--empty journal in imagenet
+Name 1 in "Michael Laskey, Jonathan Lee, Caleb Chuck, David Gealy, Wesley Hsieh, Florian T. Pokorny, Anca D. Dragan, and Ken Goldberg" has a comma at the end for entry hierarchical_supervisors
+while executing---line 2609 of file IEEEtranS.bst
+Too many commas in name 1 of "Michael Laskey, Jonathan Lee, Caleb Chuck, David Gealy, Wesley Hsieh, Florian T. Pokorny, Anca D. Dragan, and Ken Goldberg" for entry hierarchical_supervisors
+while executing---line 2609 of file IEEEtranS.bst
+Too many commas in name 1 of "Michael Laskey, Jonathan Lee, Caleb Chuck, David Gealy, Wesley Hsieh, Florian T. Pokorny, Anca D. Dragan, and Ken Goldberg" for entry hierarchical_supervisors
+while executing---line 2609 of file IEEEtranS.bst
+Too many commas in name 1 of "Michael Laskey, Jonathan Lee, Caleb Chuck, David Gealy, Wesley Hsieh, Florian T. Pokorny, Anca D. Dragan, and Ken Goldberg" for entry hierarchical_supervisors
+while executing---line 2609 of file IEEEtranS.bst
+Too many commas in name 1 of "Michael Laskey, Jonathan Lee, Caleb Chuck, David Gealy, Wesley Hsieh, Florian T. Pokorny, Anca D. Dragan, and Ken Goldberg" for entry hierarchical_supervisors
+while executing---line 2609 of file IEEEtranS.bst
 Warning--empty year in ross2013learning
 
 Done.
-You've used 25 entries,
+You've used 7 entries,
             4498 wiz_defined-function locations,
-            1032 strings with 13736 characters,
-and the built_in function-call counts, 22046 in all, are:
-= -- 1823
-> -- 898
-< -- 96
-+ -- 450
-- -- 256
-* -- 1186
-:= -- 3235
-add.period$ -- 59
-call.type$ -- 25
-change.case$ -- 202
-chr.to.int$ -- 240
-cite$ -- 32
-duplicate$ -- 1366
-empty$ -- 1670
-format.name$ -- 281
-if$ -- 4890
+            939 strings with 10255 characters,
+and the built_in function-call counts, 6837 in all, are:
+= -- 556
+> -- 375
+< -- 12
++ -- 185
+- -- 118
+* -- 398
+:= -- 1007
+add.period$ -- 15
+call.type$ -- 7
+change.case$ -- 82
+chr.to.int$ -- 24
+cite$ -- 9
+duplicate$ -- 403
+empty$ -- 425
+format.name$ -- 124
+if$ -- 1462
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 268
-newline$ -- 100
-num.names$ -- 50
-pop$ -- 887
+int.to.str$ -- 7
+missing$ -- 100
+newline$ -- 48
+num.names$ -- 14
+pop$ -- 350
 preamble$ -- 1
-purify$ -- 178
+purify$ -- 73
 quote$ -- 2
-skip$ -- 1511
+skip$ -- 428
 stack$ -- 0
-substring$ -- 718
-swap$ -- 956
-text.length$ -- 16
+substring$ -- 126
+swap$ -- 288
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 262
-warning$ -- 7
-while$ -- 88
-width$ -- 27
-write$ -- 235
-(There were 14 warnings)
+type$ -- 74
+warning$ -- 2
+while$ -- 19
+width$ -- 8
+write$ -- 85
+(There were 12 error messages)
